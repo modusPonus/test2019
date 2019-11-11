@@ -1,0 +1,9 @@
+C:\Users\eduar\source\repos\TestTask\TestTask\bin\Release\TestTask.exe.config
+C:\Users\eduar\source\repos\TestTask\TestTask\bin\Release\TestTask.exe
+C:\Users\eduar\source\repos\TestTask\TestTask\bin\Release\TestTask.pdb
+C:\Users\eduar\source\repos\TestTask\TestTask\obj\Release\TestTask.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\TestTask\TestTask\obj\Release\TestTask.Form1.resources
+C:\Users\eduar\source\repos\TestTask\TestTask\obj\Release\TestTask.Properties.Resources.resources
+C:\Users\eduar\source\repos\TestTask\TestTask\obj\Release\TestTask.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\TestTask\TestTask\obj\Release\TestTask.exe
+C:\Users\eduar\source\repos\TestTask\TestTask\obj\Release\TestTask.pdb
